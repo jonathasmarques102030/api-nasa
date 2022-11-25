@@ -1,5 +1,4 @@
-Nome do projeto
-GitHub repo size GitHub language count GitHub forks Bitbucket open issues Bitbucket open pull requests
+api-nasa
 
 Um projeto com o intuito de fazer uma interação de um site simples com uma api da nasa(APOD).
 
@@ -32,5 +31,3 @@ Para rodar o projeto na sua máquina, siga o comando>
 
 📝 Licença
 Esse projeto está sob licença. Veja o arquivo LICENÇA para mais detalhes.
-
-⬆ Voltar ao topo
