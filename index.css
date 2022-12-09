@@ -27,7 +27,7 @@ header {
 }
 
 .card {
-    margin-top: 600px;
+    margin-top: 500px;
     box-sizing: border-box;
     position: relative;
     width: 360px;
@@ -63,7 +63,7 @@ header {
     background-color: #242424;
     color: white;
     position: absolute;
-    top: 50%;
+    top: 46%;
     left: 50%;
     transform: translate(-50%,-50%);
     display: none;
